@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **C++ and React js**
 
-- 🌱 I’m currently learning **Data Structure and Algorithms & React js**
+- 🌱 I’m currently learning **Data Structure and Algorithm & Reactjs**
 
 - 📫 How to reach me **ishreyashankar@gmail.com**
 
