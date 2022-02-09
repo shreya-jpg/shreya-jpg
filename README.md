@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ishreyashankar@gmail.com**
 
-- ⚡ Fun fact :**I want to visit South Korea (but not for BTS!)**
+- ⚡ Fun fact :**I want to visit South Korea**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
